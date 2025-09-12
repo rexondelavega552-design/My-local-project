@@ -1,1 +1,2 @@
-# My-local-project
+Hello, this is my first project!
+This project is awesome! 
